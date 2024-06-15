@@ -1,0 +1,13 @@
+com\mycompany\checkersapplication\CheckersApplication.class
+Server\ServerThread.class
+UI\MainForm$2.class
+UI\MainForm.class
+Server\ServerListener.class
+Server\Server.class
+Client\Client.class
+UI\MainForm$1.class
+Client\Figure.class
+Client\Client$ClientSender.class
+Client\Area.class
+UI\MainForm$3.class
+Client\Client$ClientListener.class
